@@ -2,6 +2,7 @@
 <h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 3 курс</h2>
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 Проект выполнялся в группе студентов с разделением задач на гитхабе
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
 
 
