@@ -19,3 +19,14 @@
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'></a></td>
   </tr>
 </table>
+<h3 align="center">Профильные перечневые олимпиады</h3>
+<table>
+  <tr>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'></a></td>
+  </tr>
+  <tr>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'></a></td>
+  </tr>
+</table>
