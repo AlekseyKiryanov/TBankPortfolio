@@ -22,6 +22,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Scientific_shoting)](https://github.com/AlekseyKiryanov/Scientific_shoting)
+
 <h3 align="center">Конференции Научного Общества Учащихся</h3>
 <table><tr>
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'></a></td>
