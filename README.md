@@ -15,8 +15,8 @@
 
 <h3 align="center">IT-школа и IT-академия Samsung</h3>
 <table><tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung 1.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung 1.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung 2.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung 2.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'></a></td>
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
 </tr></table>
 
