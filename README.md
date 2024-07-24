@@ -1,7 +1,7 @@
 <h1 align="center">Портфолио для Финтеха от Т-Банка</h1>
 <h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 3 курс</h2>
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
-
+Проект выполнялся в группе студентов с разделением задач на гитхабе
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
 <h3 align="center">Конференции Научного Общества Учащихся</h3>
 <table><tr>
