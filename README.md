@@ -6,3 +6,16 @@
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'></a></td>
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'></a></td>
 </tr></table>
+<h3 align="center">Региональный Этап Всероссийской Олимпиады Школьников</h3>
+<table>
+  <tr>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'></a></td>
+  </tr>
+  <tr>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'></a></td>
+  </tr>
+</table>
