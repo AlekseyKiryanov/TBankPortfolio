@@ -3,6 +3,8 @@
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 Проект выполнялся в группе студентов с разделением задач на гитхабе
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
+
+
 <h3 align="center">Конференции Научного Общества Учащихся</h3>
 <table><tr>
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'></a></td>
