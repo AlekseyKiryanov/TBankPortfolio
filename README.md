@@ -20,6 +20,7 @@
   <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
 </tr></table>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
 
 <h3 align="center">Конференции Научного Общества Учащихся</h3>
 <table><tr>
