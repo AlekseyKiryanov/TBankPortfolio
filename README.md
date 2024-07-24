@@ -15,9 +15,9 @@
 
 <h3 align="center">IT-школа и IT-академия Samsung</h3>
 <table><tr>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><max-width='30%' img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'></a></td>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'><max-width='30%' img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'></a></td>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><max-width='30%' img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
+  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'></a></td>
+  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'></a></td>
+  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
 </tr></table>
 
 
