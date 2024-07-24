@@ -32,4 +32,3 @@
 </table>
 
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/anuraghazra/github-readme-stats)
