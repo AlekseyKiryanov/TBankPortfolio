@@ -42,46 +42,54 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Scientific_shoting)](https://github.com/AlekseyKiryanov/Scientific_shoting)
 
 <table><tr>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'></a></td>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'></a></td>
-  <td><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
+  <td width='30%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'></a></td>
+  <td width='30%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_2.jpg'></a></td>
+  <td width='30%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Kotlin.jpg'></a></td>
 </tr></table>
 
 <h3 align="center">Конференции Научного Общества Учащихся</h3>
 <table><tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU5.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU6.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/NOU7.jpg'></a></td>
 </tr></table>
 <h3 align="center">Региональный Этап Всероссийской Олимпиады Школьников</h3>
 <table>
   <tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_9_Phys.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_IT.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Math.jpg'></a></td>
   </tr>
   <tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_10_Phys.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Math.jpg'></a></td>
+  <td width='30%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VSOSH_11_Phys.jpg'></a></td>
   </tr>
 </table>
 <h3 align="center">Профильные перечневые олимпиады</h3>
 <table>
   <tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'></a></td>
+  <td width='50%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_10.jpg'></a></td>
+  <td width='50%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Physteh_11.jpg'></a></td>
   </tr>
   <tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'></a></td>
+  <td width='50%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_10.jpg'></a></td>
+  <td width='50%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'></a></td>
   </tr>
 </table>
 <h3 align="center">Обучение в МФТИ</h3>
 <table>
   <tr>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'></a></td>
-  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'></a></td>
+  <td width='50%'><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'></a></td>
+  <td width='50%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'></a></td>
+  </tr>
+</table>
+
+<h3 align="center">VRN-CTF</h3>
+<table>
+  <tr>
+  <td text-align='center'><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VRN_CTF.jpg'></a></td>
+
   </tr>
 </table>
 
