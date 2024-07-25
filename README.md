@@ -77,5 +77,12 @@
   <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Rosatom_11.jpg'></a></td>
   </tr>
 </table>
+<h3 align="center">Обучение в МФТИ</h3>
+<table>
+  <tr>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_ZPHTSH.jpg'></a></td>
+  <td><a width='30%' href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/MIPT_IT.jpg'></a></td>
+  </tr>
+</table>
 
 
