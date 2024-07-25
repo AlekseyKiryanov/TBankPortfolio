@@ -86,9 +86,9 @@
 </table>
 
 <h3 align="center">VRN-CTF</h3>
-<table width='100%'>
+<table text-align='center' width='100%'>
   <tr>
-  <td align='center'><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VRN_CTF.jpg'></a></td>
+  <td ><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VRN_CTF.jpg'></a></td>
 
   </tr>
 </table>
