@@ -13,6 +13,13 @@
 
 <a href="/works/Project.pdf">Работа в формате PDF</a>
 
+<h3 align="center">Веб-приложение на Flask</h3>
+
+Игровая адаптация реального сайта Трансфото -> Провобус. Проект выполнен на языке Python с использованием фреймфорка Flask и бащой данных MariaDB
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=ProvobusFlask)](https://github.com/AlekseyKiryanov/ProvobusFlask)
+
+
 <h3 align="center">IT-школа и IT-академия Samsung</h3>
 
 В расках выполнения выпускного проекта IT-школы Samsung было разработано мобильное приложение для расчета электрических схем по правилам Кирхгофа
