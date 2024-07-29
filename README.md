@@ -131,7 +131,7 @@
 <h3 align="center">VRN-CTF</h3>
 <table align='center'>
   <tr>
-  <td ><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img max-width='500px' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VRN_CTF.jpg'></a></td>
+  <td ><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img width='500px' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/VRN_CTF.jpg'></a></td>
 
   </tr>
 </table>
