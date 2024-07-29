@@ -3,7 +3,8 @@
 
 <h3 align="center">Навыки и технологии</h3>
 
-<table width='100%'><tr>
+
+<table align="center" width='100%'><tr>
 <td>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
