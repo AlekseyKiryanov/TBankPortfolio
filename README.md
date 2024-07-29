@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-<h3 align="center">VRN-CTF</h3>
+<h3 align="center">Студенческая олимпиада по программированию</h3>
 <table align='center'>
   <tr>
   <td ><a href='https://www.cs.vsu.ru/vrnctf/history.php'><img width='500px' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/icons/VRN_CTF.jpg'></a></td>
