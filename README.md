@@ -1,5 +1,10 @@
 <h1 align="center">Портфолио для Финтеха от Т-Банка</h1>
 <h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 3 курс</h2>
+
+<h3 align="center">Навыки и технологии</h3>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 
 Проект выполнялся в группе студентов с разделением задач на гитхабе
