@@ -1,7 +1,7 @@
 <h1 align="center">Портфолио для Финтеха от Т-Банка</h1>
 <h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 3 курс</h2>
 
-<h3 align="center">Навыки и технологии</h3>
+<h3 align="center">Используемые технологии</h3>
 
 
 <table align="center" width='100%'><tr>
